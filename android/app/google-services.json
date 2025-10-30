@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "578445053364",
+    "project_id": "clean-lanka",
+    "storage_bucket": "clean-lanka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578445053364:android:b73b6384d77ae03e9636e1",
+        "android_client_info": {
+          "package_name": "com.example.clean_lanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWfBHYQCS0PRjw_989SBuYCuAfhoc_Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578445053364:android:7a8f6fc25241c9cb9636e1",
+        "android_client_info": {
+          "package_name": "com.example.clean_lanka_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWfBHYQCS0PRjw_989SBuYCuAfhoc_Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578445053364:android:bde40625f48798c19636e1",
+        "android_client_info": {
+          "package_name": "com.yourcompany.cleanlanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWfBHYQCS0PRjw_989SBuYCuAfhoc_Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
